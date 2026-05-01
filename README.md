@@ -1,1 +1,3 @@
-# credit_card_scanner
+# card_scanner
+
+A new Flutter project.
